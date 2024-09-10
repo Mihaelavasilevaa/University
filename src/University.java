@@ -2,7 +2,7 @@ class University {
     private static University instance;
 
     private University() {
-        System.out.println("Добре дошли в единствения университет!");
+        System.out.println("Добре дошли в университетa!");
     }
 
     public static University getInstance() {
